@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.notas{
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fundo62{
+    background-image: linear-gradient(rgb(241, 3, 3),rgb(58, 13, 13));
+    color: black;
+    width: 100%;
+    height: 100vh;
+
+}
+.maateria{
+    left: 15px;
+    font-size: 10vh;
+    
+}
+.tabela{
+    justify-content: center;
+    text-align: center;
+    left: 15px;
+}
+.botao{
+    background-color: grey;
+    color: #fff;
+    left: 45%;
+}
