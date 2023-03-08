@@ -8,5 +8,3 @@ else if(senha === 88) {
 }else{
 console.log ('senha errada')
 }
-
-
